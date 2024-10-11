@@ -1,9 +1,8 @@
 # Hi there, I'm **Vansh Garg**! 👋  
-🚀 **A Full Stack Developer from India**  
 
-![Profile views](https://komarev.com/ghpvc/?username=VKGarg7&label=Profile%20views&color=0e75b6&style=flat)  
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=VKGarg7&label=Profile%20views&color=0e75b6&style=flat)  
 ![GitHub followers](https://img.shields.io/github/followers/VKGarg7?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/VKGarg7?style=social)
+![GitHub stars](https://img.shields.io/github/stars/VKGarg7?style=social) -->
 
 ---
 
@@ -33,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> **MongoDB**
 </p>
 
 ---
