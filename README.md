@@ -1,9 +1,7 @@
-# Hi there, I'm **Vansh Garg**! 👋  
-
-
+# <p align="center">Hi there, I'm <strong>Vansh Garg</strong>! 👋</p>
 
 ## 🏆 **GitHub Trophies**
-<p align="center">
+<p align="center" >
   <img src="https://github-profile-trophy.vercel.app/?username=VKGarg7&theme=radical&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
@@ -39,10 +37,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
-
-
 ---
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKGarg7&layout=compact&theme=radical" alt="GitHub Stats" width="32%" /> 
@@ -52,8 +47,4 @@
 
 ---
 
-
 ---
-
-
-
