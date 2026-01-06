@@ -32,8 +32,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKGarg7&layout=compact&theme=radical" alt="GitHub Stats" width="32%" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=VKGarg7&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VKGarg7&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
+</p> -->
