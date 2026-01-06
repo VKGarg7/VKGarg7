@@ -1,8 +1,8 @@
 # <p align="center">Hi there, I'm <strong>Vansh Garg</strong>! 👋</p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VKGarg7&theme=radical&no-frame=true&column=6&margin-w=15&background=#FFFFFF" alt="GitHub Trophies"/>
-</p>
+</p> -->
 
 ## 🤝 **Connect with me:**
 <p align="left">
