@@ -1,31 +1,29 @@
-<h1 align="center">Hi 👋, I'm Vansh Garg</h1>
-<h3 align="center">A passionate Full-Stack Developer who loves turning ideas into products</h3>
+<h1 align="center">Hi, I'm Vansh Garg 👋</h1>
+<h3 align="center">Full-Stack Web Developer | MERN Stack | Building real products, not just tutorials</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/vansh-garg-bb5060202">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/vk_garg7">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/VKGarg7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--Time%20Roles-2ea44f?style=flat-square" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 I build web apps end-to-end — from database design to pixel-perfect UI
-- 🌱 Currently sharpening my skills in the **MERN stack** and modern JavaScript/TypeScript
-- 🛠️ I enjoy solving real-world problems through side projects like ticket booking, food delivery, and job-tracking platforms
-- 🤝 Open to collaborating on interesting web dev projects
-- ⚡ Fun fact: I like clean code almost as much as clean UI
+I'm a full-stack developer who enjoys building complete, working products rather than isolated demos — from the database schema up to a polished front end. Recent work spans a movie ticket booking platform, a food delivery site, and a job application tracker, all built with the MERN stack.
+
+- 🔭 Currently building projects around the **MERN stack** (MongoDB, Express, React, Node)
+- 🌱 Sharpening my TypeScript and system design fundamentals
+- 🤝 Open to internship/full-time opportunities and collaborative dev projects
+- 📫 Reach me on LinkedIn — I usually respond within a day
 
 ---
 
@@ -50,44 +48,49 @@
 
 ### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/VKGarg7/MovieTix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VKGarg7&repo=MovieTix&theme=radical" />
-  </a>
-  <a href="https://github.com/VKGarg7/CareerFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VKGarg7&repo=CareerFlow&theme=radical" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/VKGarg7/Food_Delivery_Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VKGarg7&repo=Food_Delivery_Website&theme=radical" />
-  </a>
-  <a href="https://github.com/VKGarg7/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VKGarg7&repo=Portfolio&theme=radical" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎬 <a href="https://github.com/VKGarg7/MovieTix">MovieTix</a></h4>
+      Movie ticket booking platform — browse showtimes, select seats, and book tickets through a clean, responsive UI.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📋 <a href="https://github.com/VKGarg7/CareerFlow">CareerFlow</a></h4>
+      Smart job application tracking platform to help organize applications, deadlines, and follow-ups in one place.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍔 <a href="https://github.com/VKGarg7/Food_Delivery_Website">Food Delivery Website</a></h4>
+      Full food ordering platform with menu browsing, cart, and order flow built for a smooth end-to-end experience.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 <a href="https://github.com/VKGarg7/Portfolio">Portfolio</a></h4>
+      My personal developer portfolio showcasing projects, skills, and background in a fully custom design.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VKGarg7&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKGarg7&layout=compact&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=VKGarg7&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VKGarg7&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VKGarg7&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://komarev.com/ghpvc/?username=VKGarg7&label=Profile%20Views&color=2ea44f&style=flat-square" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VKGarg7&label=Profile%20Views&color=2F81F7&style=flat" />
-</p>
 
 <h3 align="center">💬 Let's connect and build something great together!</h3>
