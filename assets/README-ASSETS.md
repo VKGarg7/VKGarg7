@@ -1,11 +1,11 @@
 # Dashboard asset notes
 
-All SVG dashboard components are original and checked into this folder.
+The README uses a small set of full-width compositions so the profile reads as one dashboard rather than a grid of unrelated cards.
 
-Optional upgrades:
+- `hero.svg` is the self-contained README hero: it embeds the cinematic car image, developer copy and visual telemetry in one banner so it renders consistently in VS Code Preview and GitHub.
+- `hero-car.png` is the source image for that banner. If you replace it, regenerate the embedded image data in `hero.svg` too.
+- `about-tech.svg` combines About Me and Tech Stack in one frame.
+- `projects.svg` combines the three project previews; the live code/demo links remain native README links directly below it.
+- `experience-exploring.svg` combines the two related content areas in one frame.
 
-- `profile.png`: add a square headshot, then replace the `VG` monogram inside `about-card.svg` when you are ready.
-- `hero-car.png`: the original AI-generated cinematic supercar displayed directly in the README hero. You may replace it with a rights-cleared alternative; keep it dark, with the vehicle on the right, for the two-column layout.
-- Portfolio link: no current portfolio URL was verified from the GitHub profile, so it is intentionally not displayed. Add one to the hero and contact sections after it is available.
-
-The hero image is intentionally linked directly from the README rather than nested inside an SVG. This makes it render reliably in both VS Code Markdown Preview and GitHub.
+All copy in the SVGs is editable source text. The README links directly to the self-contained `hero.svg`.

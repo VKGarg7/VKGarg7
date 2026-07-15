@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 365" role="img" aria-labelledby="t d">
-<title id="t">Currently exploring</title><desc id="d">TypeScript and system design fundamentals with a cinematic supercar visual.</desc>
-<defs><linearGradient id="fade" x2="0" y2="1"><stop stop-color="#101010" offset="0"/><stop stop-color="#101010" stop-opacity=".08" offset=".55"/><stop stop-color="#101010" stop-opacity="0" offset="1"/></linearGradient><linearGradient id="floor" x2="0" y2="1"><stop stop-color="#101010" stop-opacity="0"/><stop offset="1" stop-color="#101010" stop-opacity=".96"/></linearGradient></defs>
-<rect width="520" height="365" rx="14" fill="#101010"/><rect x="1" y="1" width="518" height="363" rx="13" fill="none" stroke="#343434" stroke-width="2"/>
-<text x="26" y="42" font-family="monospace" font-size="21" font-weight="700" fill="#fff"><tspan fill="#e50914">06_</tspan> CURRENTLY EXPLORING</text><path d="M26 56h468" stroke="#333"/>
-<g font-family="Arial" font-size="16" fill="#ddd"><text x="62" y="102">TypeScript foundations</text><text x="62" y="140">System design fundamentals</text><text x="62" y="178">MERN-stack product development</text><text x="62" y="216">Practical machine learning</text></g><g fill="#e50914" font-size="20"><text x="34" y="102">◇</text><text x="34" y="140">◇</text><text x="34" y="178">◇</text><text x="34" y="216">◇</text></g>
-<svg x="15" y="224" width="490" height="126" viewBox="0 0 490 126" preserveAspectRatio="xMidYMid slice"><image href="hero-car.png" width="490" height="276" y="-75" preserveAspectRatio="xMidYMid slice"/></svg><rect x="15" y="224" width="490" height="126" fill="url(#fade)"/><rect x="15" y="224" width="490" height="126" fill="url(#floor)"/>
-<path d="M25 350h470" stroke="#e50914" stroke-opacity=".55"/><text x="260" y="337" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" fill="#e50914">ALWAYS LEARNING. ALWAYS BUILDING.</text>
-</svg>
