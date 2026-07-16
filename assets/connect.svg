@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="t d"><title id="t">Let's connect</title><desc id="d">Contact quote and links for email, LinkedIn and GitHub.</desc>
+<rect width="1200" height="150" fill="#0d0d0d" stroke="#333"/>
+<g font-family="monospace" font-weight="700" font-size="17"><text x="30" y="42" fill="#e50914">07_</text><text x="30" y="64" fill="#fff">LET'S</text><text x="30" y="86" fill="#fff">CONNECT</text></g>
+<g fill="#151515" stroke="#333"><rect x="150" y="25" width="270" height="100"/></g>
+<text x="170" y="50" fill="#e50914" font-family="Georgia,serif" font-size="30">&#8220;</text>
+<g fill="#eee" font-family="Arial" font-size="14"><text x="180" y="55">Great code is not just</text><text x="180" y="76">written, it's engineered</text><text x="180" y="97">with purpose.</text></g>
+<text x="390" y="120" fill="#e50914" font-family="Georgia,serif" font-size="30">&#8221;</text>
+<g fill="#151515" stroke="#333"><rect x="440" y="35" width="230" height="80"/><rect x="685" y="35" width="230" height="80"/><rect x="930" y="35" width="230" height="80"/></g>
+<g font-family="monospace" font-size="12" font-weight="700" fill="#e50914"><text x="460" y="60">&#9993; EMAIL</text><text x="705" y="60">LINKEDIN</text><text x="950" y="60">GITHUB</text></g>
+<g font-family="Arial" font-size="13" fill="#ddd"><text x="460" y="88">ivansh.garg4@gmail.com</text><text x="705" y="88">linkedin.com/in/vansh-garg</text><text x="950" y="88">github.com/VKGarg7</text></g>
+</svg>
