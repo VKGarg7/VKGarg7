@@ -20,7 +20,20 @@
 
 <p align="center"><img src="./assets/projects.svg" width="100%" alt="Featured projects: CareerFlow, MovieTix and Food Delivery" /></p>
 
-[CAREERFLOW — CODE](https://github.com/VKGarg7/CareerFlow) · [LIVE DEMO](https://career-flow-chi.vercel.app) &nbsp;&nbsp;|&nbsp;&nbsp; [MOVIETIX — CODE](https://github.com/VKGarg7/MovieTix) · [LIVE DEMO](https://movietix-rho.vercel.app/) &nbsp;&nbsp;|&nbsp;&nbsp; [FOOD DELIVERY — CODE](https://github.com/VKGarg7/Food_Delivery_Website) · [LIVE DEMO](https://food-delivery-website-one-chi.vercel.app)
+<table align="center"><tr>
+<td align="center" width="33%">
+<a href="https://github.com/VKGarg7/CareerFlow"><img src="https://img.shields.io/badge/VIEW%20CODE-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="CareerFlow code" /></a>
+<a href="https://career-flow-chi.vercel.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-E50914?style=for-the-badge&logo=vercel&logoColor=white" alt="CareerFlow live demo" /></a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/VKGarg7/MovieTix"><img src="https://img.shields.io/badge/VIEW%20CODE-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="MovieTix code" /></a>
+<a href="https://movietix-rho.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-E50914?style=for-the-badge&logo=vercel&logoColor=white" alt="MovieTix live demo" /></a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/VKGarg7/Food_Delivery_Website"><img src="https://img.shields.io/badge/VIEW%20CODE-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="Food Delivery code" /></a>
+<a href="https://food-delivery-website-one-chi.vercel.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-E50914?style=for-the-badge&logo=vercel&logoColor=white" alt="Food Delivery live demo" /></a>
+</td>
+</tr></table>
 
 ---
 
