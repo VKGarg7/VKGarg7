@@ -1,6 +1,6 @@
 <p align="center"><img src="./assets/hero.svg" width="100%" alt="Vansh Garg full-stack developer automotive dashboard hero" /></p>
 
-<p align="center"><a href="https://github.com/VKGarg7?tab=repositories">VIEW PROJECTS</a> &nbsp;·&nbsp; <a href="https://github.com/VKGarg7">GITHUB</a> &nbsp;·&nbsp; <a href="mailto:14garg04@gmail.com">CONTACT ME</a></p>
+<p align="center"><a href="https://github.com/VKGarg7?tab=repositories">VIEW PROJECTS</a> &nbsp;·&nbsp; <a href="https://github.com/VKGarg7">GITHUB</a> &nbsp;·&nbsp; <a href="mailto:ivansh.garg4@gmail.com">CONTACT ME</a></p>
 
 ---
 
@@ -30,7 +30,7 @@
 
 > “Great code is not just written; it’s engineered with purpose.”
 
-[EMAIL](mailto:14garg04@gmail.com) &nbsp;·&nbsp; `14GARG04@GMAIL.COM` &nbsp;&nbsp; [LINKEDIN](https://www.linkedin.com/in/vansh-garg-bb5060202/) &nbsp;·&nbsp; `VANSH-GARG` &nbsp;&nbsp; [GITHUB](https://github.com/VKGarg7) &nbsp;·&nbsp; `VKGARG7`
+[EMAIL](mailto:ivansh.garg4@gmail.com) &nbsp;·&nbsp; `ivansh.garg4@gmail.com` &nbsp;&nbsp; [LINKEDIN](https://www.linkedin.com/in/vansh-garg-bb5060202/) &nbsp;·&nbsp; `VANSH-GARG` &nbsp;&nbsp; [GITHUB](https://github.com/VKGarg7) &nbsp;·&nbsp; `VKGARG7`
 
 ---
 
