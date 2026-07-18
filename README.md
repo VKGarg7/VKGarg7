@@ -39,8 +39,6 @@
 
 ## 04_ GITHUB TELEMETRY
 
-<p align="center"><img src="./assets/telemetry.svg" width="100%" alt="GitHub contribution telemetry: total contributions, current streak, top languages and activity grid" /></p>
-
 <p align="center"><img src="https://streak-stats.demolab.com?user=VKGarg7&background=0D0D0D&border=333333&ring=E50914&fire=FF1E1E&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0" alt="Vansh Garg's GitHub contribution streak" /></p>
 
 ---
