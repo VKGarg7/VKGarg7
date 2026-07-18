@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 56" role="img" aria-labelledby="t"><title id="t">Contact Me</title>
+<defs>
+  <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#1c1c1c"/>
+    <stop offset="100%" stop-color="#111"/>
+  </linearGradient>
+</defs>
+<rect x="2" y="2" width="226" height="52" rx="8" fill="url(#bg3)" stroke="#3a3a3a"/>
+<g font-family="monospace" font-weight="700" font-size="15" fill="#eee">
+  <rect x="32" y="19" width="20" height="15" rx="2" fill="none" stroke="#eee" stroke-width="1.8"/>
+  <path d="M32 20l10 8l10-8" stroke="#eee" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="34">CONTACT ME</text>
+</g>
+</svg>
