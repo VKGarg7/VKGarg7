@@ -126,11 +126,11 @@
 </g>
 
 <g font-family="monospace" font-size="10.5" font-weight="700" letter-spacing="0.5" filter="url(#pGlow)">
-  <rect x="44" y="280" width="146" height="19" rx="9.5" fill="#3a1214" stroke="url(#pAccent)" stroke-width="1"/>
-  <text x="54" y="293" fill="#ff5555">TOP PROJECT · LIVE</text>
-  <rect x="444" y="280" width="138" height="19" rx="9.5" fill="#3a1214" stroke="url(#pAccent)" stroke-width="1"/>
-  <text x="454" y="293" fill="#ff5555">FULL-STACK · LIVE</text>
-  <rect x="844" y="280" width="138" height="19" rx="9.5" fill="#3a1214" stroke="url(#pAccent)" stroke-width="1"/>
-  <text x="854" y="293" fill="#ff5555">FULL-STACK · LIVE</text>
+  <rect x="44" y="280" width="112" height="19" rx="9.5" fill="#3a1214" stroke="url(#pAccent)" stroke-width="1"/>
+  <text x="100" y="293" text-anchor="middle" fill="#ff5555">TOP PROJECT · LIVE</text>
+  <rect x="444" y="280" width="104" height="19" rx="9.5" fill="#3a1214" stroke="url(#pAccent)" stroke-width="1"/>
+  <text x="496" y="293" text-anchor="middle" fill="#ff5555">FULL-STACK · LIVE</text>
+  <rect x="844" y="280" width="104" height="19" rx="9.5" fill="#3a1214" stroke="url(#pAccent)" stroke-width="1"/>
+  <text x="896" y="293" text-anchor="middle" fill="#ff5555">FULL-STACK · LIVE</text>
 </g>
 </svg>
